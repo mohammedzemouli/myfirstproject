@@ -1,5 +1,5 @@
 {
-  "name": "my-first-project",
+  "name": "GitHub",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,14 +11,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.10",
-    "express": "^4.19.2",
-    "express-ejs-layouts": "^2.5.1",
-    "mongodb": "^6.5.0",
-    "mongoose": "^8.3.1"
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.4.18"
   },
   "devDependencies": {
-    "dotenv": "^16.4.5",
-    "nodemon": "^3.1.0"
+    "dotenv": "^6.2.0",
+    "nodemon": "^1.18.10"
   }
 }
